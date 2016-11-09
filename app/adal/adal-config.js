@@ -1,6 +1,6 @@
 var adalConfig = {
   tenant: 'common',
-  clientId: '00000000-0000-0000-0000-000000000000',
+  clientId: 'b81c097f-15b2-4c36-8aa2-ddbfa47d5c45',
   extraQueryParameter: 'nux=1',
   disableRenewal: true,
   endpoints: {
